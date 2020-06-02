@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.10.3",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nuxt": "^2.12.2",
+    "vue": "^2.6.11",
+    "vuetify": "^2.2.28"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
